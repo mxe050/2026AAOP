@@ -1,0 +1,11 @@
+2026TMD.mp4
+*.mp4
+node_modules/
+package-lock.json
+package.json
+npm-debug.log*
+assets/frames/
+assets/images/test_*.jpg
+preview-*.png
+.DS_Store
+Thumbs.db
